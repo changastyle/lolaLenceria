@@ -1,0 +1,19 @@
+#sidebar
+{
+    //background-color:background;
+    height: 100%;
+}
+#principalWrapper
+{
+    //background-color: red;
+    height: 100%;
+}
+#buscadorProveedores
+{
+    width: 100%;
+}
+th, table
+{
+    text-align: center;
+}
+
